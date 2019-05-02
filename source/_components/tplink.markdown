@@ -150,6 +150,7 @@ Currently supported devices includes the following:
 - Archer C7 firmware version 150427
 - Archer C9 firmware version 150811
 - EAP-225 AP with latest firmware version
+- EAP-245 AP with latest firmware version
 - Archer D9 firmware version 0.9.1 0.1 v0041.0 Build 160224 Rel.59129n
 
 <p class='note'>
